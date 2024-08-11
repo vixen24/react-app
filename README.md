@@ -4,7 +4,7 @@
 
 ## Requirements
 
-- Node.js >= v12
+- Node.js = v18
 
 ## Application structure
 
